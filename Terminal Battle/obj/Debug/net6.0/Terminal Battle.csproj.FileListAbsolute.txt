@@ -1,0 +1,15 @@
+C:\Users\Samuel\OneDrive\Desktop\Terminal Battle\bin\Debug\net6.0\Terminal Battle.exe
+C:\Users\Samuel\OneDrive\Desktop\Terminal Battle\bin\Debug\net6.0\Terminal Battle.deps.json
+C:\Users\Samuel\OneDrive\Desktop\Terminal Battle\bin\Debug\net6.0\Terminal Battle.runtimeconfig.json
+C:\Users\Samuel\OneDrive\Desktop\Terminal Battle\bin\Debug\net6.0\Terminal Battle.dll
+C:\Users\Samuel\OneDrive\Desktop\Terminal Battle\bin\Debug\net6.0\ref\Terminal Battle.dll
+C:\Users\Samuel\OneDrive\Desktop\Terminal Battle\bin\Debug\net6.0\Terminal Battle.pdb
+C:\Users\Samuel\OneDrive\Desktop\Terminal Battle\obj\Debug\net6.0\Terminal Battle.csproj.AssemblyReference.cache
+C:\Users\Samuel\OneDrive\Desktop\Terminal Battle\obj\Debug\net6.0\Terminal Battle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel\OneDrive\Desktop\Terminal Battle\obj\Debug\net6.0\Terminal Battle.AssemblyInfoInputs.cache
+C:\Users\Samuel\OneDrive\Desktop\Terminal Battle\obj\Debug\net6.0\Terminal Battle.AssemblyInfo.cs
+C:\Users\Samuel\OneDrive\Desktop\Terminal Battle\obj\Debug\net6.0\Terminal Battle.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\OneDrive\Desktop\Terminal Battle\obj\Debug\net6.0\Terminal Battle.dll
+C:\Users\Samuel\OneDrive\Desktop\Terminal Battle\obj\Debug\net6.0\ref\Terminal Battle.dll
+C:\Users\Samuel\OneDrive\Desktop\Terminal Battle\obj\Debug\net6.0\Terminal Battle.pdb
+C:\Users\Samuel\OneDrive\Desktop\Terminal Battle\obj\Debug\net6.0\Terminal Battle.genruntimeconfig.cache
