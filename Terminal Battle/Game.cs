@@ -143,7 +143,7 @@ namespace Terminal_Battle
                                     
      LEAD DEVELOPER
     ================
-        SAMUEL MCGARRAUGH
+        RandomNPC
                                     
      HELPFUL YOUTUBE CHANNELS
     ==========================
